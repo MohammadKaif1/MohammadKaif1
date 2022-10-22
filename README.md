@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b><i>"Dream >> Learn >> Think >> Create"</i></b></h4>
+  <h4 align="center"><b><i>"Remeber why you started"</i></b></h4>
 </p>
 
 <h3 align="center">Connect with me:</h3>
