@@ -26,9 +26,9 @@
 ![](https://komarev.com/ghpvc/?username=mohammadkaif&color=blue&style=plastic&label=Profile+Views)
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
-- 🔭 I’m currently working on Open Source and Android Development.
-- 🌱 I’m currently learning Data Structures and Algorithm.
-- 🤔 I’m looking for help with Data Structures and Algorithm.
+- 🔭 I’m currently working on Open Source and Android Development.<br>
+- 🌱 I’m currently learning Data Structures and Algorithm.<br>
+- 🤔 I’m looking for help with Data Structures and Algorithm.<br>
 - 📫 My-->[Linkedin Profile](https://www.linkedin.com/in/mohammad-kaif-1809a7192/)
 
 <!--
