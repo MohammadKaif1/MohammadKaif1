@@ -23,13 +23,25 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=mohammadkaif&color=blue&style=plastic&label=Profile+Views)
 
 - 🔭 I’m currently working on Open Source and Android Development.<br>
 - 🌱 I’m currently learning Data Structures and Algorithm.<br>
 - 🤔 I’m looking for help with Data Structures and Algorithm.<br>
 - 💬 Ask me about **Kotlin, C++, Java, Android, Video Games**
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/mohammad-kaif-1809a7192/"> LinkedIn </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohammadKaif1&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadKaif1&theme=radical&show_icons=true)
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKaif1&layout=compact&theme=react&count_private=true" /width=498>
+</div>
+
+### Hey😃, you're counted  in visitors list. 
+
+  <img src="https://profile-counter.glitch.me/MohammadKaif1/count.svg" />
+</div>
 
 <!--
 **MohammadKaif1/MohammadKaif1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
