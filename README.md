@@ -21,7 +21,7 @@
   <img align="left" alt="Kaif's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-</p>
+</p><br>
 
 
 - 🔭 I’m currently working on Open Source and Android Development.<br>
