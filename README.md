@@ -1,24 +1,24 @@
 <p>
-  <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><b>Hello there, I'm Mohammad Kaif👋</b></h1>
+  <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><b>Hello there, I'm Mohammad Kaif👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b><i>"Remeber why you started"</i></b></h4>
+  <h4 align="left"><b><i>"Remeber why you started"</i></b></h4>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
   <br>
   
 <a href="https://www.linkedin.com/in/mohammad-kaif-1809a7192/">
-  <img align="center" alt="Kaif's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kaif's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/https://twitter.com/kaifuu_twts?s=20&t=wlBa695BCx9lnTLx-dWtxQ">
-  <img align="center" alt="Kaif's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kaif's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.com/channels/@me/Kaifu1695#4862">
-  <img align="center" alt="Kaif's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Kaif's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 </p>
