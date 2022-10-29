@@ -39,7 +39,7 @@
 
   <img src="https://profile-counter.glitch.me/MohammadKaif1/count.svg" />
 </div>
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+Here are some [🦜 parrots]:-->
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
