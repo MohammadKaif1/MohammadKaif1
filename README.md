@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://holopin.io/api/user/board?user=kaifu07"> </p>
+  <img src="https://holopin.io/@kaifu07"> </p>
 
 
 <p>
