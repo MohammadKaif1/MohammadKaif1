@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://holopin.io/api/user/board?user=kaifu07"> </p>
-  <br>
 
-<img src="https://komarev.com/ghpvc/?username=kaifu07&color=blue" />
-
-<br>
 
 <p>
   <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><b>Hello there, I'm Mohammad Kaif👋</b></h1>
@@ -13,6 +9,14 @@
 <p>
   <h4 align="left"><b><i>"Remeber why you started"</i></b></h4>
 </p>
+## PROFILES
+
+<p>
+<a href="https://www.linkedin.com/in//mohammad-kaif-1809a7192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kaif1695@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://medium.com/@utkarsh06"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> </p>
+<p>
+<a href="https://twitter.com/https://twitter.com/kaifuu_twts?s=20&t=wlBa695BCx9lnTLx-dWtx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 
 <h3 align="left">Connect with me:</h3>
 
