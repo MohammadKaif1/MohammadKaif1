@@ -1,5 +1,10 @@
 <p align="center">
   <img src="https://holopin.io/api/user/board?user=kaifu07"> </p>
+  <br>
+
+<img src="https://komarev.com/ghpvc/?username=kaifu07&color=blue" />
+
+<br>
 
 <p>
   <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><b>Hello there, I'm Mohammad Kaif👋</b></h1>
