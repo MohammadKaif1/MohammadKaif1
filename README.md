@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <h4 align="left"><b><i>"Remeber why you started"</i></b></h4>
+  <h4 align="left"><b><i>"Discipline will take you to places, Motivation Can't"</i></b></h4>
 </p>
 
 ## PROFILES
